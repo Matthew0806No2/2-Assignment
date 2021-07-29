@@ -1,0 +1,71 @@
+body{
+    background-color:red;
+    
+}
+#p{
+ color: bisque;
+}
+#p{
+    color: bisque;
+}
+#p{
+    text-transform: capitalize;
+}
+p{
+    margin-left: +1.5em 
+}
+p{
+    color: bisque;
+    text-transform: capitalize;
+}
+form{
+    background-color: white;
+    margin-right: 22em;
+    margin-left: 22em;
+    padding-left: 2em;
+    padding-top: 0px;
+    padding-bottom: 1em;
+    padding-right: 2em;
+    border-radius: 10px;
+}
+#p1{font-family: sans-serif;
+    font-weight: 100;
+    margin-right: 2px;
+    margin-left: 1px;
+    font-size: 2em;
+}
+#p2{
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 2em;
+    margin-left: 1px;
+    margin-right: 2px;
+}
+#p3{
+    background-color: darkblue;
+    border-radius: 4em;
+    margin-right: 1em; 
+    margin-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 2em;
+}
+#p4{
+    text-align: left;
+    font-size: 1em;
+}
+#p5{
+    text-align: left;
+    font-size: 1em;
+}
+#p6{
+    text-align: left;
+    font-size: 1em;
+}
+#p{
+    background-color: green;
+    text-align: center;
+    font-size: 100;
+    font-family: sans-serif;
+    border-radius: 2em;
+}
